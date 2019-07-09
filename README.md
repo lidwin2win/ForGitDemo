@@ -1,2 +1,0 @@
-# ForGitDemo
-git demo visa
